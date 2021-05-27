@@ -1,4 +1,4 @@
-package monkeyLang
+package main
 
 import (
 	"fmt"
